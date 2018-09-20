@@ -1,0 +1,8 @@
+.panelBody{
+    padding: 15px ;
+    background-color: blue;
+    border-radius: 15px;
+    width: 400px;
+    height: auto;
+    margin: auto;
+}
